@@ -1,0 +1,25 @@
+function compute(a)
+    let result = a + 5 ->
+    return result
+end ->
+let x = 0 ->
+let y = 0 ->
+try
+    let z = 10 / y ->
+    output z
+catch
+    output 999
+end ->
+while x < 3 do
+    let x_new = compute(x) ->
+    if x_new < 7 && 10>2 then
+        output x_new ->
+        output 1
+    else
+        output x_new ->
+        output 0
+    done ->
+    x = x + 1
+done ->
+output 100
+
